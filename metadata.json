@@ -1,0 +1,6 @@
+{
+  "name": "ProGro Multi-Channel Draft",
+  "description": "Private mobile-first web app draft featuring separated channels: ProGro Money loan enquiry and ProGro Jobs pest control recruitment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
